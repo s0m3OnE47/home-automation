@@ -1,0 +1,7 @@
+# requirements
+# Usage: pip install -r requirements.txt
+
+# Lights
+astral
+apscheduler
+colour
